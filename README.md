@@ -25,6 +25,7 @@ Based on the latest data analysis, the system sends timely notifications to remi
 Traffic and Public Transport Updates: This service provides ongoing updates on traffic conditions and public transportation schedules to keep users informed throughout their journey.
 
 Stakeholders:
+
 Users: Individuals looking to streamline their travel experience and ensure timely arrivals for flights or trains.
 Developers: This team is responsible for designing, building, and maintaining the ClockRise app. Their expertise will drive the application's functionality and user experience.
 Product Managers are professionals who oversee the development of ClockRise, ensuring it meets user needs and aligns with business objectives.
