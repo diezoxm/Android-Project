@@ -26,10 +26,10 @@ Traffic and Public Transport Updates: This service provides ongoing updates on t
 
 Stakeholders:
 
-Users: Individuals looking to streamline their travel experience and ensure timely arrivals for flights or trains.
-Developers: This team is responsible for designing, building, and maintaining the ClockRise app. Their expertise will drive the application's functionality and user experience.
-Product Managers are professionals who oversee the development of ClockRise, ensuring it meets user needs and aligns with business objectives.
-Investors: Entities or individuals providing financial backing for ClockRise are interested in its potential for success and market penetration.
+* Users: Individuals looking to streamline their travel experience and ensure timely arrivals for flights or trains.
+* Developers: This team is responsible for designing, building, and maintaining the ClockRise app. Their expertise will drive the application's functionality and user experience.
+* Product Managers are professionals who oversee the development of ClockRise, ensuring it meets user needs and aligns with business objectives.
+* Investors: Entities or individuals providing financial backing for ClockRise are interested in its potential for success and market penetration.
 
 Platform:
 The application will be developed using cutting-edge tools and technologies suitable for deploying cloud-based solutions. This choice ensures scalability, reliability, and accessibility for users worldwide.
